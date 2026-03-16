@@ -32,7 +32,12 @@ Stunning 200MP camera with incredible zoom capabilities
 Long battery life with fast charging
 S-Pen support is unique and useful
                                  
-Review by Nitish Singh
+Review by Divyanshu Raj
 """)
 
 print(result)
+
+# pydantic is a data validation and data parsing library for python.
+# it ensures that the data you work with is correct, structured and type-safe.
+# It is used to define the structure of data and validate that the data conforms to that structure.
+# It is also used to parse data from one format to another.

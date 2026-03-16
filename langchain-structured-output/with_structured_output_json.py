@@ -65,7 +65,14 @@ Stunning 200MP camera with incredible zoom capabilities
 Long battery life with fast charging
 S-Pen support is unique and useful
                                  
-Review by Nitish Singh
+Review by Divyanshu Raj
 """)
 
 print(result)
+
+
+"""
+json schema is a way to define the structure of data in json format.
+it is used to validate that the data conforms to that structure.
+it is also used to parse data from one format to another.
+"""

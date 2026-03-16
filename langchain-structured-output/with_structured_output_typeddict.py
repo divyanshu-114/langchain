@@ -31,7 +31,12 @@ Stunning 200MP camera with incredible zoom capabilities
 Long battery life with fast charging
 S-Pen support is unique and useful
                                  
-Review by Nitish Singh
+Review by Divyanshu Singh
 """)
 
 print(result['name'])
+
+
+# typedDict is a way to define a dictionary in python where you specify what 
+# keys and values should exist. It helps ensure that your dictionary has the 
+# expected structure and types.

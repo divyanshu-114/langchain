@@ -1,0 +1,6 @@
+In langchain, structured output refers to the practice of having language models return response in a structured format like JSON, Pydantic, TypedDict, etc. instead of plain text.
+in a well defined data format (json) rather than free form text.This makes the 
+model output easier to parse and work with programmatically.
+
+It helps LLMs to make LLMs conversate with diffrent software and tools and applications.
+

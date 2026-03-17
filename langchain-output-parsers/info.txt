@@ -1,0 +1,13 @@
+Output parser helps us to work with models who cant give structured output.
+
+
+Output parse in Lnagchain helps us to convert the output of the
+model into a structured format like JSON, Pydantic, TypedDict, etc.
+
+instead of plain text. They ensure consistency, validation and ease of use in application.
+
+4 major types of output parsers in langchain are:
+1. JsonOutputParser
+2. PydanticOutputParser
+3. StringOutputParser
+4. StructuredOutputParser
